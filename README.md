@@ -19,6 +19,4 @@ a visualization for the final report.
 I visualized how the composition of the music market has changed over the last
 40 years for physical and digital formats.
 
-This is how the final report looks like
-
-![US_Music_Revenues](https://github.com/marcusasar/US_Music_Revenues/assets/165590698/6a15aef8-27df-4876-bff5-df2abdcf2f2b)
+Final visualizatio report can be found in [Report Folder](Report)
