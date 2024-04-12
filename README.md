@@ -19,4 +19,4 @@ a visualization for the final report.
 I visualized how the composition of the music market has changed over the last
 40 years for physical and digital formats.
 
-Final visualization can be found in [Report Folder](Report)
+Final report can be found in [Report Folder](Report)
